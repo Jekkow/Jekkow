@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JEK
-- 📍 Born and Raised in the Netherlands 🇳🇱
+- 📍 The Netherlands 🇳🇱
 - 👀 I’m interested in programming in Python and C#
 - 📫 You can reach me on jekkowdev@gmail.com
 
